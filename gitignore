@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environments
+.env
+.venv
+
+# Output
+*.txt
+system_report.txt
