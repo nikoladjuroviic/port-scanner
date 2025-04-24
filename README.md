@@ -1,5 +1,5 @@
 
-# 🛡️ Advanced Port Scanner
+# 🛡️ Port Scanner
 
 A simple, fast, multithreaded port scanner written in Python.  
 It scans a range of ports on a given IP address using 100 threads to speed up the process.
